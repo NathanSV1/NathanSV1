@@ -9,10 +9,10 @@ This repository gathers my analytical work in **finance**, **programmation** and
 
 | Project | Description | Format |
 |----------|--------------|--------|
-|[Mini Backtest Engine](https://github.com/NathanSV1/mini-backtest-engine) | Design of a modular backtesting framework fo multiple mono-asset strategies | Code + Report |
+|[Mini Backtest Engine](https://github.com/NathanSV1/mini-backtest-engine) | Design of a modular backtesting framework fo multiple mono-asset strategies | Code + Report (EN)|
 | [On Market Efficiency (FR)](./finance/market_efficiency) | Discussion sur l'efficience des marchés financiers, d'un point de vu néo-libéral | Rapport |
 | [Portfolio optimisation with the Markowitz model (FR) ](./finance/portfolio-optimisation-markowitz) | Discussion sur le modèle d'optimisation du portefeuille de Markowitz| Rapport |
-| [Mastermind – Codebreakers & Codemakers](https://github.com/NathanSV1/mastermind) | Implémentation et comparaison de différents algorithmes de résolution du Mastermind| Code + Rapport (FR) |
+| [Mastermind – Codebreakers & Codemakers](https://github.com/NathanSV1/mastermind) | Implémentation et comparaison de différents algorithmes de résolution du Mastermind| Code + Rapport (FR)|
 
 
 
